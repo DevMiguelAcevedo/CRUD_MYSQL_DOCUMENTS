@@ -275,7 +275,7 @@ CRUD_MYSQL_DOCUMENTS/
 
 ## 📚 Tecnologías Utilizadas
 
-- **PHP 7.0+** - Lenguaje de servidor
+- **PHP 8.4.12** - Lenguaje de servidor
 - **MySQL** - Base de datos
 - **HTML5** - Markup
 - **CSS3** - Estilos
@@ -291,7 +291,7 @@ Desarrollado como prueba técnica
 
 ## 📞 Contacto
 
-Para reportar problemas o sugerencias, por favor crear un issue en el repositorio.
+acebedo2524@gmail.com
 
 ---
 
