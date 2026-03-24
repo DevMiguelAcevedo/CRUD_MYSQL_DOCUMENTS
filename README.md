@@ -196,7 +196,7 @@ CRUD_MYSQL_DOCUMENTS/
 | POST | `/documentos/{id}/actualizar` | Actualizar documento |
 | POST | `/documentos/{id}/eliminar` | Eliminar documento |
 | GET | `/api/documentos/buscar` | Buscar documentos (AJAX) |
-| GET | `/documentos/logout` | Cerrar sesión |
+| GET | `/logout` | Cerrar sesión |
 
 ## 🏗️ Arquitectura
 
