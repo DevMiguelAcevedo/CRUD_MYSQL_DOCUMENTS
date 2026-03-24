@@ -219,7 +219,7 @@
             <div class="user-info">
                 Bienvenido: <strong><?php echo htmlspecialchars($usuario ?? 'Usuario'); ?></strong>
                 <br>
-                <a href="/documentos/logout" class="btn btn-secondary logout-btn" style="padding: 5px 10px; font-size: 12px;">Cerrar sesión</a>
+                <a href="/logout" class="btn btn-secondary logout-btn" style="padding: 5px 10px; font-size: 12px;">Cerrar sesión</a>
             </div>
         </div>
 

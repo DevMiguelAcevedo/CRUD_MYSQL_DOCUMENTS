@@ -1,12 +1,12 @@
 {
     "name": "crud/documentos",
-    "description": "CRUD de Gestión de Documentos - PHP MVC",
+    "description": "CRUD de Gestión de Documentos",
     "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tu Nombre",
-            "email": "tu.email@example.com"
+            "name": "Miguel Acevedo",
+            "email": "acebedo2524@gmail.com"
         }
     ],
     "require": {
